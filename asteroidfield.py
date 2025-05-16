@@ -1,4 +1,3 @@
-import main
 import pygame
 import random
 from asteroid import Asteroid
